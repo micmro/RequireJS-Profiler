@@ -3,6 +3,8 @@ RequireJS Profiler
 
 Tool to profile the loading of AMD modules loaded via [RequireJS](http://requirejs.org/).
 
+![alt text](https://raw.githubusercontent.com/micmro/RequireJS-Profiler/screenshots/readme-assets/RequireJS-printDependencyTree.png "rjsProfiler.printDependencyTree() output example")
+
 Using the profile
 ===================
 
@@ -15,6 +17,7 @@ Using the profile
 	require(["common"]);
 </script>
 ```
+currently there is a dependency on jQuery, but it should be easy to replace.
 
 ###### Getting results from the profiler (from the console)
 ```javascript
