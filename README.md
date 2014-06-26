@@ -5,7 +5,7 @@ Tool to profile the loading of AMD modules loaded via [RequireJS](http://require
 
 ![alt text](https://raw.githubusercontent.com/micmro/RequireJS-Profiler/screenshots/readme-assets/RequireJS-printDependencyTree.png "rjsProfiler.printDependencyTree() output example")
 
-Using the profile
+Using the profiler
 ===================
 
 ###### Adding the profiler
