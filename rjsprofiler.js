@@ -1,7 +1,8 @@
 /*
 RequireJS Profiler
 timing and dependency tree tracing
-Author : Michael Mrowetz
+Source & manual: https://github.com/micmro/RequireJS-Profiler
+Author: Michael Mrowetz
 */
 
 var rjsProfiler;
